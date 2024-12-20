@@ -151,7 +151,7 @@ def write_text(str):
 ####################################################################################################################################################################################
 ##########################((((((((((((((((((((((((((((((((((((((((((((((((((((((((A SUITABLE BOY))))))))))))))))))))))))))))))))))))))))))))))))))))))))############################
 if dataset == 'A Suitable Boy':
-    file_path = r'D:\GITHUB\next_char\suitableboy.txt'
+    file_path = r'suitableboy.txt'
     with open(file_path, 'r', encoding='utf-8') as file:
         content = file.read()
     new_text = "".join([character.lower() for character in content])
@@ -217,7 +217,7 @@ if dataset == 'A Suitable Boy':
 ####################################################################################################################################################################################
 ################################((((((((((((((((((((((((((((((((((((((((((((((((LORD OF THE FLIES))))))))))))))))))))))))))))))))))))))))))))))))###################################    
 elif dataset == 'Lord of the Flies':
-    file_path = r'D:\GITHUB\next_char\LordoftheFlies.txt'
+    file_path = r'LordoftheFlies.txt'
     with open(file_path, 'r', encoding='utf-8') as file:
         content = file.read()
     new_text = "".join([character.lower() for character in content])
@@ -284,7 +284,7 @@ elif dataset == 'Lord of the Flies':
 ################################((((((((((((((((((((((((((((((((((((((((((((((((MALGUDI DAYS))))))))))))))))))))))))))))))))))))))))))))))))###################################    
 elif dataset == 'Malgudi Days':
 
-    file_path = r'D:\GITHUB\next_char\MalgudiDays.txt'
+    file_path = r'MalgudiDays.txt'
     with open(file_path, 'r', encoding='utf-8') as file:
         content = file.read()
     new_text = "".join([character.lower() for character in content])
@@ -353,7 +353,7 @@ elif dataset == 'Malgudi Days':
 ################################((((((((((((((((((((((((((((((((((((((((((((((((THREE MEN IN A BOAT))))))))))))))))))))))))))))))))))))))))))))))))###################################    
 elif dataset == 'Three Men In A Boat':
 
-    file_path = r'D:\GITHUB\next_char\Threemeninaboat.txt'
+    file_path = r'Threemeninaboat.txt'
     with open(file_path, 'r', encoding='utf-8') as file:
         content = file.read()
     new_text = "".join([character.lower() for character in content])
