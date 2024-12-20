@@ -421,7 +421,7 @@ elif dataset == 'Three Men In A Boat':
 st.markdown(
     """
     ---
-    Learn more https://github.com/your-github-link
+    Learn more https://github.com/MukeshK17/next_char.git
     """,
     unsafe_allow_html=True
 )
