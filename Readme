@@ -15,10 +15,10 @@ A **Streamlit application** that predicts the next `k` characters in a text sequ
 - **Generates dynamic outputs** with varied predictions.
 #
 **Samples**
-- Three Men In A Boat
-![image](preview1.png)
-![image](generatedtext_ThreeMenInABoat.png)
+- **Three Men In A Boat**  
+  ![image](https://raw.githubusercontent.com/MukeshK17/next_char/main/preview1.png)  
+  ![Generated Text](https://raw.githubusercontent.com/MukeshK17/next_char/main/generatedtext_ThreeMenInABoat.png)
 
-- Malgudi Days
-![image](preview2.png)
-![image](generatedtextMalgudiDays.png)
+- **Malgudi Days**  
+  ![image](https://raw.githubusercontent.com/MukeshK17/next_char/main/preview2.png)  
+  ![Generated Text](https://raw.githubusercontent.com/MukeshK17/next_char/main/generatedtextMalgudiDays.png)
