@@ -16,9 +16,9 @@ A **Streamlit application** that predicts the next `k` characters in a text sequ
 #
 **Samples**
 - Three Men In A Boat
-![alt text](preview1.png)
-![alt text](generatedtext_ThreeMenInABoat.png)
+![image](preview1.png)
+![image](generatedtext_ThreeMenInABoat.png)
 
 - Malgudi Days
-![alt text](preview2.png)
-![alt text](generatedtextMalgudiDays.png)
+![image](preview2.png)
+![image](generatedtextMalgudiDays.png)
